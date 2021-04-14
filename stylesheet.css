@@ -1,0 +1,40 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color:powderblue;
+    padding: 10px;
+    width: 580px;
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 60px;
+    text-align: center;
+    width: 100px;
+    font-weight: bold;
+  }
+  p {
+    background-color:lightgrey;
+    font-size: 25px;
+  }
+  h1 {
+      font-size: 40px;
+      font-style:normal;
+      font-family:monospace;
+  }
+  h2 {
+      font-size: 80px;
+      color:mediumvioletred;
+  }
+  .reset {
+    font-size: 20px;
+  }
+  .score {
+    font-size: 20px;
+  }
+  body {
+      background-color:snow;
+  }
+  
