@@ -1,1 +1,1 @@
-npx browser-sync
+web: npx browser-sync
